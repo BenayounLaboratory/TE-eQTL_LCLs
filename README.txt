@@ -16,3 +16,4 @@ The code is arranged by major analysis carried out:
 	# 4_RNASeq_Analysis_Peptide_Exposure     	 : see README_Transcriptomics_Peptide_Treatment.txt
 	# 4b_RNASeq_Analysis_Peptide_Exposure_TElocal    : see README_Transcriptomics_Peptide_Treatment_TElocal.txt
 	# 5_GWAS_Analyses                        	 : see README_GWAS.txt
+	# 6_EBV                                          : see README_EBV.txt
