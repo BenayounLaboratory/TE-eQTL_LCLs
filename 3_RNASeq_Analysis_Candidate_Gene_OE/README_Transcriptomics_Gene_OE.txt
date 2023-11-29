@@ -13,3 +13,6 @@ README -- RNASeq Analysis of Candidate Regulator OE
           - Note: The functions ('Run_GSEA_Against_Top_eQTLs_Functions.R') prepared for the GSEA analysis in '2_RNASeq_Analysis_Top_eQTLs' are used here
       - Find overlapping significant gene sets between OE conditions (Run_Comparison_of_GSEA_Results.R)
           - Note: The functions ('Run_GSEA_Against_Top_eQTLs_Functions.R') prepared for the GSEA analysis in '2_RNASeq_Analysis_Top_eQTLs' are used here
+
+  5. Statistical analysis of repeat log2FC distributions
+      - Compare repeat log2FC to 0 using a Wilcoxon test and generate plots (Run_foldchange_comparisons.R)
