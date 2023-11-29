@@ -9,3 +9,7 @@ README -- RNASeq Analysis of Top eQTLs
       - Find overlapping significant gene sets changing with the top 3 eQTLs with a cis-mediator (Compare_Top_3_Independent_SNVs.R)
       - Find overlapping significant gene sets changing with the top 2 eQTLs without a cis-mediator (Compare_Top_2_SNVs_without_mediator.R)
       - Find overlapping significant gene sets changing with all top 5 eQTLs (Compare_Top_5_Independent_SNVs.R)
+
+
+  3. Statistical analysis of repeat log2FC distributions
+      - Compare repeat log2FC to 0 using a Wilcoxon test and generate plots (Run_foldchange_comparisons.R)
