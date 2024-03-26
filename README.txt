@@ -3,8 +3,8 @@
 Code for the manuscript:
 
 Juan I. Bravo, Chanelle R. Mizrahi, Seungsoo Kim, Lucia Zhang, Yousin Suh, Bérénice A. Benayoun
-"A Computational Approach for the Identification of Novel L1 Transcriptional Regulators"
-(biorXiv preprint at: https://www.biorxiv.org/content/10.1101/2023.08.15.553416v2)
+"An eQTL-based Approach Reveals Candidate Regulators of LINE-1 RNA Levels in Lymphoblastoid Cells"
+(biorXiv preprint at: https://www.biorxiv.org/content/10.1101/2023.08.15.553416v3)
 
 The code is arranged by major analysis carried out:
 	# 1_eQTL_Analysis                        	 : see README_eQTL.txt
